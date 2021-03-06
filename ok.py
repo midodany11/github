@@ -1,5 +1,5 @@
-# Say OK ten times
+# Say OK twenty times
 i = 0
-while i < 10:
+while i < 20:
     print("OK")
     i += 1
